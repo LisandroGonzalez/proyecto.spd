@@ -16,7 +16,7 @@ en los displays. El contador comienza en 0 y aumentar o disminuir su valor en un
 
 ## Función principal
 
-Funcion Principal Parte 1:
+Funcion Principal Parte 1:\n
 ******************************************************************* controlDeBoton *******************************************************************
 En las primeras tres lineas (123-125) de la funcion se le asigna a tres variables el estado del boton asignado (1 -> presionado o 0 -> no presionado), 
 luego mediante el uso de ifs (128-138) pregunta si el estado de cada uno de los botones fue pulsado, y de ser asi, pone en una variable asignada para 
