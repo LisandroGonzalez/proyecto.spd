@@ -16,16 +16,13 @@ en los displays. El contador comienza en 0 y aumentar o disminuir su valor en un
 
 ## Función principal
 
-Funcion Principal Parte 1:\n
-******************************************************************* controlDeBoton *******************************************************************
+Funcion Principal Parte 1: controlDeBoton
 En las primeras tres lineas (123-125) de la funcion se le asigna a tres variables el estado del boton asignado (1 -> presionado o 0 -> no presionado), 
 luego mediante el uso de ifs (128-138) pregunta si el estado de cada uno de los botones fue pulsado, y de ser asi, pone en una variable asignada para 
 el estado anterior un 1, y al final de la funcion (140-159), pregunta si el estado de las variables mencionadas al principio cambio respecto a su 
 estado anterior, de ser asi, esto significaria que el boton termino de ser presionado, y por lo tanto, retorna la salida digital del boton que fue 
 accionado.
-******************************************************************************************************************************************************
-Funcion Principal Parte 2:
-******************************************************************* mostrarNumeros *******************************************************************
+Funcion Principal Parte 2: mostrarNumeros 
 La funcion usa dos funciones, prenderDisplay() el cual se encarga de prender y apagar los visualizadores de la decena y la unidad segun corresponda,
 y prenderNumDisplay(), el cual para la parte de las decenas divide el contador por 10, lo cual resulta en un numero flotante, que al haber sido 
 declarado un entero, corta la parte decimal que seria la parte de la unidad, y luego usa el resto de esta division, la cual seria el numero de la 
