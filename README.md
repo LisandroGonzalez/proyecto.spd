@@ -138,13 +138,10 @@ Caso contrario funcione normalmente.
 
 Una fotorresistencia es un componente eléctrico, el cual posee una resistencia capaz de variar su magnitud al estar en contacto con distintas magnitudes de intensidad lumínica.
 
-Esta conformado por una célula fotorreceptora y dos pastillas; cuando dicha célula no percibe más cierto nivel de luz (es decir cuando baja del mínimo de lúmenes predefinido), entonces hace contacto y se encienden las luces.
-
 La base del funcionamiento de una fotorresistencia radica en su componente principal, el sulfuro de cadmio (CdS). Este componente químico es un semiconductor que tiene la capacidad de variar su resistencia según la 
 cantidad de luz que en él incida.
 
-Cuanto mayor intensidad es la luz que incide sobre el sulfuro de cadmio, más baja es la resistencia, es decir mayor facilidad de los electrones para moverse. Vale saber que la variación de la resistencia cuando hay cambios 
-de luminosidad repentinos no sigue la misma velocidad, sino que tiene retardo.
+Cuanto mayor intensa es la luz que incide sobre el sulfuro de cadmio, más baja es la resistencia, es decir mayor facilidad de los electrones para moverse. Vale saber que la variación de la resistencia cuando hay cambios de luminosidad repentinos no sigue la misma velocidad, sino que tiene retardo.
 
 En el proyecto la incorporacion de este componente, podria ser para apagar el motor cuando la intensidad de la luz este en un rango bajo (la noche).
 
