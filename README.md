@@ -134,6 +134,20 @@ Una posible incorporación de ambos componentes en el proyecto sería, por ejemp
 Modificación agregando una fotoresistencia, que, en caso de que la misma registre una instensidad de luz baja, es decir, que sea de noche, se apague el motor previamente incorporado. 
 Caso contrario funcione normalmente.
 
+## Fotoresistencia
+
+Una fotorresistencia es un componente eléctrico, el cual posee una resistencia capaz de variar su magnitud al estar en contacto con distintas magnitudes de intensidad lumínica.
+
+Esta conformado por una célula fotorreceptora y dos pastillas; cuando dicha célula no percibe más cierto nivel de luz (es decir cuando baja del mínimo de lúmenes predefinido), entonces hace contacto y se encienden las luces.
+
+La base del funcionamiento de una fotorresistencia radica en su componente principal, el sulfuro de cadmio (CdS). Este componente químico es un semiconductor que tiene la capacidad de variar su resistencia según la 
+cantidad de luz que en él incida.
+
+Cuanto mayor intensidad es la luz que incide sobre el sulfuro de cadmio, más baja es la resistencia, es decir mayor facilidad de los electrones para moverse. Vale saber que la variación de la resistencia cuando hay cambios 
+de luminosidad repentinos no sigue la misma velocidad, sino que tiene retardo.
+
+En el proyecto la incorporacion de este componente, podria ser para apagar el motor cuando la intensidad de la luz este en un rango bajo (la noche).
+
 # Enlaces al proyecto
 * [Parte 1](https://www.tinkercad.com/things/ajBtQkZgpyX-copy-of-primer-parcial-parte-1/editel?sharecode=kyloOgjOjRCKmidilat9jocpUBs_b18UxDfPWX8ttG4) 
 * [Parte 2](https://www.tinkercad.com/things/ks8qoWAqN0g-primer-parcial-parte-2/editel?sharecode=6q1re_Cas0dJkWkAkpKIjD-2QozqC5lB7e4nQ291InQ)
