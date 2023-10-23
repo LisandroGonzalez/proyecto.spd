@@ -131,7 +131,8 @@ Una posible incorporación de ambos componentes en el proyecto sería, por ejemp
 
 ## Parte 3: Modificación usando una fotoresistencia
 
-
+Modificación agregando una fotoresistencia, que, en caso de que la misma registre una instensidad de luz baja, es decir, que sea de noche, se apague el motor previamente incorporado. 
+Caso contrario funcione normalmente.
 
 # Enlaces al proyecto
 * [Parte 1](https://www.tinkercad.com/things/ajBtQkZgpyX-copy-of-primer-parcial-parte-1/editel?sharecode=kyloOgjOjRCKmidilat9jocpUBs_b18UxDfPWX8ttG4) 
